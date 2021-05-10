@@ -1,0 +1,159 @@
+.jumbotron {
+    background-color: #FFABD9;
+    /* background-image: url(https://img.wallpapersafari.com/desktop/728/410/53/61/bG28C4.jpg); */
+  height: 500px; 
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lalezar', cursive;
+    text-shadow: 0px 2px #22F2FF;
+    font-size: 80px;
+}
+
+.student-BW {
+    text-align: center;
+    font-family: 'Fira Code', monospace;
+    font-size: 25px;
+}
+
+.handwriting-font {
+    text-align: center;
+    font-family:'Dokdo', cursive;
+    font-size: 60px;
+    color: #00D8E5;
+}
+
+
+
+
+.nav {
+    justify-content:center;
+    /* background-color: #FFABD9; */
+    
+}
+
+.nav-link {
+text-shadow:
+-1px -1px 0 #fff,
+1px -1px 0 #fff,
+-1px 1px 0 #fff,
+1px 1px 0 #fff;
+font-family: Lalezar;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 47px;
+text-align: center;
+color: #000000;
+}
+
+
+.nav-item {
+/* border: 5px solid #FFFFFF; */
+text-shadow: 5px 4px 4px rgb(129, 15, 15));
+
+    
+}
+
+a:hover {
+color: #00D8E5
+}
+
+
+
+
+li {
+    padding: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cust_container {
+    height:1200px;
+    background-color: rgba(150,150,150,1) !important;
+  }
+  
+  .cust_container h1 {
+    position:absolute;
+    top:0px;
+  }
+  
+  .item_1 {
+    height:auto;
+    margin:0;
+    padding:10px;
+  }
+  
+  @media screen and (max-width:992px){
+    .adjust_stick {
+      padding-top:100px;
+    }
+  }
+  
+  #stick-dude {
+    height:70px;
+    position:absolute;
+    top:-64px;
+    left:45px;
+  }
+  
+
+
+
+
+
+/* #mirandaExample {
+    background-image: url("../img/logo-temp.png");
+    background-repeat: no-repeat;
+    background-color: red;
+    background-position: 80% 69%;
+    background-attachment: fixed;
+    animation: colorfulBackground 25s ease-in infinite;
+}
+​
+@keyframes colorfulBackground {
+    0% {
+     background-color: pink;
+     background-position: 30% 78%; 
+    }
+​
+
+20% {
+     background-color: orange;
+     background-position: 30% 78%; 
+    }
+} */
+
+
+
+.BW-journey {
+    padding-top: 50px;
+    padding-left: 30px;
+    font-family: 'Lalezar', cursive;
+}
+
+
+
